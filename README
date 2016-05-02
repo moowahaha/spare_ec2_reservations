@@ -1,0 +1,5 @@
+Uses: Ruby 2.3.0 (might support lower but not tested) & bundler (`gem install bundler`).
+
+How to run: spare_ec2_reservations aws_region.
+
+Kapow.
