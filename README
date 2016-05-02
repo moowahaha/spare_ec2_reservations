@@ -1,4 +1,7 @@
-Uses: Ruby 2.3.0 (might support lower but not tested) & bundler (`gem install bundler`).
+Setup instructions...
+ - Uses Ruby 2.3.0 (might support lower but not tested).
+ - I've used Bundler for gem management (gem install bundler)... Although currently only aws-sdk-v1 is used.
+ - Install dependent gems (bundle install).
 
 How to run: spare_ec2_reservations aws_region.
 
